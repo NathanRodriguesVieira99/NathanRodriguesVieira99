@@ -1,8 +1,7 @@
-<h2 align="left">Sobre Mim</h2>
+<h2 align="left">  Oi, Meu nome é Nathan</h2>
 
 ###
-
-<p align="left">Oi, meu nome é Nathan e sou estudante de Engenharia de Software</p>
+<p> Sou estudante de Engenharia de Software</p>
 
 ###
 
