@@ -25,9 +25,13 @@
 
 </div>
 
-<h3>Back End e Banco de Dados:</h3>
+<h3>Back End:</h3>
 <div align="lefr">
   
+</div>
+
+<div align="left">
+<h3>Banco de dados:</h3>
 </div>
 
 ###
