@@ -51,9 +51,11 @@
 <h2 align="left">Ferramentas e Plataformas</h2>
 <div align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
- 
+ <img width="3" />
  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
