@@ -36,7 +36,6 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="3" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
 </div>
 
 ###
