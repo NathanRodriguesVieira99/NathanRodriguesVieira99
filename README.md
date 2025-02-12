@@ -44,7 +44,11 @@
 <h3>Banco de dados:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
   <img width="3" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+</div>
+
 ###
 
 <h2 align="left">Ferramentas e Plataformas</h2>
@@ -65,5 +69,8 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/nathan-rodrigues-vieira-207747252/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:nathanrodriguesvieira99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
 </div>
