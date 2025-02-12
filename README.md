@@ -1,8 +1,8 @@
 <h2 align="left">Oi, meu nome é Nathan</h2>
 
 <p>Sou estudante de Engenharia de Software, estou sempre em busca de aprender novas tecnologias com intenção de me tornar um desenvolvedor Full-Stack.
-<br/>
-  No momento estudando backend com foco em NodeJs, Java e PostgreSQL 
+<img width="3"/>
+No momento estudando backend com foco em NodeJs, Java e PostgreSQL 
 </p>
 
 <div align="center">
