@@ -1,10 +1,10 @@
 <h2 align="left">Oi, meu nome é Nathan</h2>
 
-<p>Sou estudante de Engenharia de Software, estou sempre em busca de aprender novas tecnologias com intenção de me tornar um desevolvedor Full-Stack.</p>
+<p>Sou estudante de Engenharia de Software, estou sempre em busca de aprender novas tecnologias com intenção de me tornar um desenvolvedor Full-Stack.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NathanRodriguesVieira99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Status" height="150" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanRodriguesVieira99&layout=compact&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanRodriguesVieira99&layout=compact&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ###
@@ -29,23 +29,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-
 </div>
 
 <h3>Back End:</h3>
 <div align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="3" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
-</div>
 
 <div align="left">
 <h3>Banco de dados:</h3>
-</div>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img width="3" />
+  
 ###
 
 <h2 align="left">Ferramentas e Plataformas</h2>
@@ -53,8 +52,8 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
- <img width="3" />
- <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
