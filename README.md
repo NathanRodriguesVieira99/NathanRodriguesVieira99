@@ -6,7 +6,7 @@ No momento estudando backend com foco em NodeJs, Java e PostgreSQL
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanRodriguesVieira99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Status" height="150" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=NathanRodriguesVieira99&random=12345&layout=compact&theme=dracula&hide_border=false"  height="150"  alt="Status github" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanRodriguesVieira99&layout=compact&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
 </div>
 
