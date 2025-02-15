@@ -6,8 +6,8 @@ No momento estudando backend com foco em NodeJs, Java e PostgreSQL
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NathanRodriguesVieira99&random=12345random=1739573022random=1739572837random=1739572331random=1739571676&layout=compact&theme=dracula&hide_border=false" height="150" alt="Status github" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanRodriguesVieira99&layout=compact&theme=dracula&hide_border=false&random=12345random=1739573022random=1739572837random=1739572331random=1739571676" height="150" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats.vercel.app/api?username=NathanRodriguesVieira99&random=12345random=1739580644random=1739573022random=1739572837random=1739572331random=1739571676&layout=compact&theme=dracula&hide_border=false" height="150" alt="Status github" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanRodriguesVieira99&layout=compact&theme=dracula&hide_border=false&random=12345random=1739580644random=1739573022random=1739572837random=1739572331random=1739571676" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ###
