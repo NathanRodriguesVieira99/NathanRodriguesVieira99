@@ -2,15 +2,15 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Executa a cada 12 horas (00:00 e 12:00 UTC)
-  workflow_dispatch:  # Permite execução manual
+    - cron: '0 */12 * * *'  
+  workflow_dispatch:  
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # Garante permissão para fazer push
+      contents: write  
 
     steps:
     - name: Checkout repository
