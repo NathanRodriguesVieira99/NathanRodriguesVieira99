@@ -6,8 +6,8 @@ No momento estudando backend com foco em NodeJs, Java e PostgreSQL
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NathanRodriguesVieira99&random=12345random=1739572837random=1739572331random=1739571676&layout=compact&theme=dracula&hide_border=false" height="150" alt="Status github" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanRodriguesVieira99&layout=compact&theme=dracula&hide_border=false&random=12345random=1739572837random=1739572331random=1739571676" height="150" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats.vercel.app/api?username=NathanRodriguesVieira99&random=12345random=1739621872random=1739580644random=1739573022random=1739572837random=1739572331random=1739571676&layout=compact&theme=dracula&hide_border=false" height="150" alt="Status github" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanRodriguesVieira99&layout=compact&theme=dracula&hide_border=false&random=12345random=1739621872random=1739580644random=1739573022random=1739572837random=1739572331random=1739571676" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ###
@@ -71,7 +71,7 @@ No momento estudando backend com foco em NodeJs, Java e PostgreSQL
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <img width="3"/>
-  <a href="mailto:nathanrodriguesvieira99@gmail.com" target="_blank">
+  <a href="mailto:nathanrodriguesvieira.contato@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
 </div>
