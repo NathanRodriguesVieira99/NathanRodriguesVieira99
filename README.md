@@ -2,7 +2,7 @@
 
 <p>Sou estudante de Engenharia de Software, estou sempre em busca de aprender novas tecnologias com intenção de me tornar um desenvolvedor Full-Stack.
 <img width="3"/>
-No momento estudando backend com foco em NodeJs, Java e PostgreSQL 
+No momento estudando backend com foco em NodeJs(NestJs), Java(Springboot) e PostgreSQL 
 </p>
 
 <div align="center">
