@@ -6,8 +6,8 @@ No momento estudando backend com foco em NodeJs(NestJs), Java(Spring Boot) e Pos
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NathanRodriguesVieira99&random=12345random=1739926299random=1739881235random=1739839871random=1739794849random=1739753625random=1739708415random=1739668393random=1739667342random=1739621872random=1739580644random=1739573022random=1739572837random=1739572331random=1739571676&layout=compact&theme=dracula&hide_border=false" height="150" alt="Status github" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanRodriguesVieira99&layout=compact&theme=dracula&hide_border=false&random=12345random=1739926299random=1739881235random=1739839871random=1739794849random=1739753625random=1739708415random=1739668393random=1739667342random=1739621872random=1739580644random=1739573022random=1739572837random=1739572331random=1739571676" height="150" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats.vercel.app/api?username=NathanRodriguesVieira99&random=12345random=1739967545random=1739926299random=1739881235random=1739839871random=1739794849random=1739753625random=1739708415random=1739668393random=1739667342random=1739621872random=1739580644random=1739573022random=1739572837random=1739572331random=1739571676&layout=compact&theme=dracula&hide_border=false" height="150" alt="Status github" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanRodriguesVieira99&layout=compact&theme=dracula&hide_border=false&random=12345random=1739967545random=1739926299random=1739881235random=1739839871random=1739794849random=1739753625random=1739708415random=1739668393random=1739667342random=1739621872random=1739580644random=1739573022random=1739572837random=1739572331random=1739571676" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ###
