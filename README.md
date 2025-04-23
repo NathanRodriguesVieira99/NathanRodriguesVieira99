@@ -46,12 +46,6 @@ No momento estudando backend com foco em NodeJs, Supabase e Java.
 
 ###
 
-<div align="left">
-<h3>Banco de dados:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="3" />
-</div>
-
 ###
 
 <h2 align="left">Ferramentas e Plataformas</h2>
