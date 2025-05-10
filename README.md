@@ -2,7 +2,6 @@
 
 <p>Sou estudante de Engenharia de Software, estou sempre em busca de aprender novas tecnologias com intenção de me tornar um desenvolvedor Full-Stack.
 <img width="3"/>
-No momento estudando backend com foco em NodeJs, Supabase e Java. 
 </p>
 
 <div align="center">
