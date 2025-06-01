@@ -1,6 +1,6 @@
 <h2 align="left">Oi, meu nome é Nathan</h2>
 
-<p>Sou estudante de Engenharia de Software, estou sempre em busca de aprender novas tecnologias com intenção de me tornar um desenvolvedor Full-Stack.
+<p>Sou estudante de Engenharia de Software, estou sempre em busca de aprender novas tecnologias com intenção de me tornar um desenvolvedor Full-Stack. No momento estou estudando Java (Spring), NodeJs (Fastify), Docker e PostgreSQL
 <img width="3"/>
 </p>
 
