@@ -37,10 +37,23 @@
 <div align="left">
  <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
+     <img width="3" />
+   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+      <img width="3" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+   <img width="3" />
+ 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="docker logo"  />
+
+
+<h3>Banco de dados:</h3>
+<div align="left">
+ <div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+   <img width="3"/>
 </div>
 
 ###
@@ -51,11 +64,13 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
-  <img width="3" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="3" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+   <img width="3" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
 ###
