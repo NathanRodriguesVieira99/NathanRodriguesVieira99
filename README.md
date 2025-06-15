@@ -1,6 +1,6 @@
-<h2 align="left">Oi, meu nome é Nathan</h2>
+<h2 align="left">Hi, im Nathan</h2>
 
-<p>Sou estudante de Engenharia de Software, estou sempre em busca de aprender novas tecnologias com intenção de me tornar um desenvolvedor Full-Stack. No momento estou estudando Java (Spring), NodeJs (Fastify) e  Docker 
+<p>I'm a Software Engineering student, I'm always looking to learn new technologies with the intention of becoming a Full-Stack developer. I'm currently studying NodeJs and Docker
 <img width="3"/>
 </p>
 
@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Tech Stack</h2>
 
 <h3>Front End:</h3>
 <div align="left">
@@ -26,8 +26,6 @@
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
   <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -36,20 +34,10 @@
 <h3>Back End:</h3>
 <div align="left">
  <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-     <img width="3" />
-   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-      <img width="3" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-   <img width="3" />
+ <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="docker logo"  />
 
-
-<h3>Banco de dados:</h3>
+<h3>Database:</h3>
 <div align="left">
  <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -60,7 +48,7 @@
 
 ###
 
-<h2 align="left">Ferramentas e Plataformas</h2>
+<h2 align="left">Tools</h2>
 <div align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
   <img width="3" />
@@ -70,14 +58,14 @@
    <img width="3" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
   <img width="3" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+    <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-   <img width="3" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
 ###
 
-<h2 align="left">Conecte-se comigo</h2>
+<h2 align="left">Connect with me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nathan-rodrigues-vieira-207747252/" target="_blank">
