@@ -1,6 +1,6 @@
-<h2 align="left">Hi, im Nathan</h2>
+<h2 align="left">Hi, im Nathan 👋</h2>
 
-<p>I'm a Software Engineering student, I'm always looking to learn new technologies with the intention of becoming a Full-Stack developer. I'm currently studying NodeJs and Docker
+<p>I'm a Software Engineering student, I'm always looking to learn new technologies with the intention of becoming a Full-Stack developer. I'm currently studying NodeJs
 <img width="3"/>
 </p>
 
