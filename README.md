@@ -22,21 +22,21 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=html" width=45" height="40" alt="HTML5" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" height="40" alt="CSS3" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="Sass" />
+  <img src="https://skillicons.dev/icons?i=sass" width="45" height="40" alt="Sass" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="40" alt="TailwindCSS" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=js" width="45" height="40" alt="JavaScript" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=ts" width="45" height="40" alt="TypeScript" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=react" width="45" height="40" alt="React" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="40" alt="Next.js" />
 </div>
 
 ###
@@ -46,7 +46,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="40" alt="Node.js" />
   <img width="6" />
 </div>
 
@@ -57,9 +57,9 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=postgresql" width="45" height="40" alt="PostgreSQL" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="Prisma" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="45" height="40" alt="Prisma" />
 </div>
 
 ###
@@ -69,19 +69,19 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=git" width="45" height="40" alt="Git" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="40" alt="GitHub" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" height="40" alt="VS Code" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=figma" width="45" height="40" alt="Figma" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=docker" width="45" height="40" alt="Docker" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=jest" width="40" height="40" alt="Jest" />
+  <img src="https://skillicons.dev/icons?i=jest" width="45" height="40" alt="Jest" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="45" height="40" alt="Vercel" />
 </div>
 
 ###
