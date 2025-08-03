@@ -48,6 +48,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="40" alt="Node.js" />
   <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
 </div>
 
 ###
