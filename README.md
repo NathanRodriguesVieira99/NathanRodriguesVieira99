@@ -37,6 +37,7 @@
   <img src="https://skillicons.dev/icons?i=react" width="45" height="40" alt="React" />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="40" alt="Next.js" />
+  <img width="6" />
 </div>
 
 ###
@@ -59,6 +60,12 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgresql" width="45" height="40" alt="PostgreSQL" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="40" alt="SQLite" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45" height="40" alt="MariaDB" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="40" alt="MySQL" />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=prisma" width="45" height="40" alt="Prisma" />
 </div>
