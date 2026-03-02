@@ -77,6 +77,8 @@
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
+  <img width="6" />
+   <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
 </div>
 
 ###
