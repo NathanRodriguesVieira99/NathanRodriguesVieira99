@@ -45,6 +45,8 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+   <img width="6" />
+   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
 </div>
 
 ###
