@@ -100,7 +100,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img width="3" />
-  <a href="https://www.linkedin.com/in/nathan-rodrigues-vieira-207747252/" target="_blank">
+  <a href="https://www.linkedin.com/in/nathan-rodrigues-vieira-dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
 </div>
