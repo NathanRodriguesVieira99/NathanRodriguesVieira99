@@ -53,6 +53,10 @@
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
    <img width="6" />
    <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="apachekafka logo"  />
+  
+</div>
 </div>
 
 ###
@@ -62,9 +66,11 @@
 ###
 
 <div align="left">
- <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+ <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />  
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<img width="6" />
+    <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
 </div>
 
 ###
