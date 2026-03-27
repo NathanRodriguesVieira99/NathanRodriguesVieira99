@@ -25,22 +25,24 @@
 
 <div align="left">
  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="6" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="6" />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="6" />
+<img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="6" />
+ <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="6" />
+<img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="6" />
+<img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="6" />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-    <img width="6" />
+   <img width="12" />
    <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
+   <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
 </div>
 
 ###
@@ -51,11 +53,11 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="6" />
+<img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
-   <img width="6" />
+<img width="12" />
    <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
-  <img width="6" />
+<img width="12" />
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="apachekafka logo"  />
   
 </div>
@@ -69,9 +71,9 @@
 
 <div align="left">
  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />  
-  <img width="6" />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-<img width="6" />
+<img width="12" />
     <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
 </div>
 
@@ -83,15 +85,15 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="6" />
+ <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img width="6" />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="6" />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="6" />
+<img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="6" />
+<img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
 
 </div>
