@@ -39,6 +39,8 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+    <img width="6" />
+   <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
 </div>
 
 ###
@@ -91,8 +93,7 @@
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
-  <img width="6" />
-   <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
+
 </div>
 
 ###
