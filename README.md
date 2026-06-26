@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineering student, always looking to learn new technologies with the intention of becoming a Full-Stack developer. Currently studying Node.js</p>
+<p align="left">I'm a Software Engineering student, always looking to learn new technologies with the intention of becoming a Full-Stack developer. Currently studying Microservices and DevOps</p>
 
 ###
 
