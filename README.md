@@ -63,6 +63,16 @@
 
 ###
 
+<h3>Testing</h3>
+
+###
+<div align="left">
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
+
 <h3 align="left">Database</h3>
 
 ###
@@ -75,7 +85,7 @@
 
 ###
 
-<h3 align="left">Tools</h3>
+<h3 align="left">Tools & DevOps</h3>
 
 ###
 
@@ -84,11 +94,13 @@
  <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
 <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-<img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
 
 
 </div>
@@ -102,10 +114,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/nathan-rodrigues-vieira-dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  </a>
-  <img width="3" />
-  <a href="mailto:nathanrodriguesvieira99@gmail.com" target="_blank">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
