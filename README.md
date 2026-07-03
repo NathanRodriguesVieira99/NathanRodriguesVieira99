@@ -105,7 +105,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/nathan-rodrigues-vieira-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/nathan-rodrigues-vieira-dev/" >
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
   <img width="3" />
