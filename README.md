@@ -105,12 +105,12 @@
 ###
 
 <div align="left">
-  <a href="mailto:nathanrodriguesvieira.contato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img width="3" />
   <a href="https://www.linkedin.com/in/nathan-rodrigues-vieira-dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  </a>
+  <img width="3" />
+  <a href="mailto:nathanrodriguesvieira99@gmail.com" target="_blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
