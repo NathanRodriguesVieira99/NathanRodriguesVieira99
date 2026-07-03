@@ -41,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
    <img width="12" />
    <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
-   <img width="12" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
 </div>
 
 ###
@@ -55,10 +53,10 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
 <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+ <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
 <img width="12" />
-   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
-<img width="12" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="apachekafka logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
   
 </div>
 </div>
@@ -70,11 +68,9 @@
 ###
 
 <div align="left">
- <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />  
-<img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-<img width="12" />
-    <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
+ <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
@@ -93,8 +89,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-<img width="12" />
-  <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
+
 
 </div>
 
@@ -105,7 +100,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/nathan-rodrigues-vieira-dev/" >
+  <a href="https://www.linkedin.com/in/nathan-rodrigues-vieira-dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
   <img width="3" />
